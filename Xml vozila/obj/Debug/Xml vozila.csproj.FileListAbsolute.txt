@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\bin\Debug\Xml vozila.exe.config
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\bin\Debug\Xml vozila.exe
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\bin\Debug\Xml vozila.pdb
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml vozila.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml_vozila.Form1.resources
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml_vozila.Properties.Resources.resources
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml vozila.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml vozila.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml vozila.exe
+C:\Users\Učenik\source\repos\Xml vozila\Xml vozila\obj\Debug\Xml vozila.pdb
